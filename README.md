@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Selenium](https://img.shields.io/badge/Selenium-4A29A8?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Automation](https://img.shields.io/badge/Automation-007EC7?style=for-the-badge&logo=automation&logoColor=white)](https://en.wikipedia.org/wiki/Automation)
+
 # Image-Scraper-using-Selenium-and-Python
 
 This project is a web image scraper that uses Selenium and Python to automate image extraction from Google Images. It scrolls through the page, collects high-quality images, and downloads them efficiently. The script is designed with error handling and retry mechanisms to ensure robustness.
